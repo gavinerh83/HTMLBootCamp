@@ -1,0 +1,18 @@
+div {
+    width: 100px;
+    height: 100px;
+    border: 1px solid red;
+    border-radius: 20%;
+    display: inline-block;
+}
+
+img {
+    border: 10px groove red;
+    padding: 10px;
+}
+.img2 {
+    border: 2px solid yellow;
+}
+.img3 {
+    border: 5px solid greenyellow;
+}
